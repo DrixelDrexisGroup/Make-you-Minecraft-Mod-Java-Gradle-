@@ -4,3 +4,4 @@ First, open the URL (https://www.jetbrains.com.cn/idea/download/?section=windows
 Then install, Windows opens directly, and Linux runs the idea or idea.sh under bin. Download the plugin, find the one with the Minecraft checkered icon, install and restart IDEA, and create a new project
 If compiling, please install Gradle for Windows users and apt install gradle for Linux users. Then the project directory gradle build
 Thanks!
+The IDEA file is too large to be published
